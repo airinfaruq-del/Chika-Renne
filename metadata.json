@@ -1,0 +1,6 @@
+{
+  "name": "CharaX play",
+  "description": "Pemutar Musik MP3 modern beresolusi tinggi dengan Equalizer 10-band, Visualizer Audio interaktif, lirik sinkron, dan pengelola playlist.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
